@@ -271,3 +271,16 @@
     }
   }
 }
+
+
+// .link-k{
+//  margin-top: -20px
+// }
+
+a{
+  color: #5c94ad;
+  text-decoration: none;
+  &:hover{
+    color: #c431d1;
+  }
+}

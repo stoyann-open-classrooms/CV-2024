@@ -309,4 +309,12 @@ button {
 }
 .link-movie li:hover {
   color: #003147;
+}
+
+a {
+  color: #5c94ad;
+  text-decoration: none;
+}
+a:hover {
+  color: #c431d1;
 }/*# sourceMappingURL=main.css.map */
